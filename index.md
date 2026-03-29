@@ -14,4 +14,6 @@ My mathematical interests include algorithms, the theory of computation, and alg
 
 I was a teaching assistant for Analysis of Algorithms (CSE 373) and Intro to Computer Science (CSE 101) at SBU.  
 
-My goal is to meet new people from all disciplines and help with computer related tasks.
+### Goals
+- Meet new people from all disciplines
+- Help with computer-related tasks
