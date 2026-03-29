@@ -7,7 +7,7 @@ layout: home
 Behold, the man. or something like that...
 
 <p align="center">
-  <img src="IMG_98032.PNG" alt="Kevi" width="500"/>
+  <img src="IMG_98032.PNG" alt="Kevi" width="600"/>
 </p>
 
 ## About Me
@@ -24,6 +24,14 @@ I enjoy:
 - Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
 - Technology & Production Intern at Ideal Glass Studios
 - Experience coding in Java, Python
+
+### Completed Coursework
+- Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Advanced Linear Algebra, Complex Analysis, Logic
+
+### Goals
+- Meet new people
+- Freelance web/software development?
+- Help with computer-related tasks
 
 ### Mathematical Interests
 - Algorithms
@@ -42,10 +50,9 @@ I enjoy:
   - Hyperelliptic & Elliptic Curve Cryptography
   - Diffie-Hellman
 
-### Goals
-- Meet new people
-- Freelance web/software development?
-- Help with computer-related tasks
-
 ### Project Websites (under construction)
 - temp
+  
+### Contact
+- Email: kevin.chen.23 -- at -- stonybrook.edu
+- LinkedIn: Currently deactivated
