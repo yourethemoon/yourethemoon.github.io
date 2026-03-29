@@ -4,7 +4,8 @@ layout: home
 
 # Hi! I'm Kevi.
 
-Behold.
+Behold, the man. or something like that...
+
 ## About Me
 
 I enjoy:
@@ -12,6 +13,13 @@ I enjoy:
 - Reading mathematical works
 - Cooking
 - Prime number computing
+- The Free Software philosophy
+
+### Experience
+- Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
+- Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
+- Technology & Production Intern at Ideal Glass Studios
+- Experience coding in Java, Python
 
 ### Mathematical Interests
 - Algorithms
@@ -30,14 +38,9 @@ I enjoy:
   - Hyperelliptic & Elliptic Curve Cryptography
   - Diffie-Hellman
 
-### Experience
-- Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
-- Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
-- Technology & Production Intern at Ideal Glass Studios
-- Experience coding in Java, Python
-
 ### Goals
-- Meet new people from all disciplines
+- Meet new people
+- Freelance web/software development?
 - Help with computer-related tasks
 
 ### Project Websites (under construction)
