@@ -7,7 +7,7 @@ layout: home
 Behold, the man. or something like that...
 
 <p align="center">
-  <img src="IMG_98032.PNG" alt="Kevi" width="200"/>
+  <img src="IMG_98032.PNG" alt="Kevi" width="500"/>
 </p>
 
 ## About Me
