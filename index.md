@@ -7,7 +7,7 @@ layout: home
 Behold, the man. or something like that...
 
 <p align="center">
-  <img src="IMG_98032.PNG" alt="Kevi" width="600"/>
+  <img src="IMG_98032.PNG" alt="Kevi" width="650"/>
 </p>
 
 ## About Me
@@ -23,7 +23,7 @@ I enjoy:
 - Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
 - Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
 - Technology & Production Intern at Ideal Glass Studios
-- Experience coding in Java, Python
+- Experience coding in Java, Python. Currently learning Rust
 
 ### Completed Coursework
 - Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Advanced Linear Algebra, Complex Analysis, Logic
