@@ -2,17 +2,40 @@
 layout: home
 ---
 
-# Hello gang
+# Hi! I'm Kevi.
 
-Behold, this is Kevi's GitHub Pages site.
+Behold
 
 ## About Me
 
-Hi! I'm Kevi. I enjoy building computers and reading mathematical works.  
+I enjoy:
+- Building computers
+- Reading mathematical works
+- Cooking
+- Prime number computing
 
-My mathematical interests include algorithms, the theory of computation, and algebra.  
+### Mathematical Interests
+- Algorithms
+  - Graph algorithms
+  - Sorting and searching
+  - Hybrid Sorting algorithms
+  - Complexity analysis
+  - Approximation algorithms
+- Theory of computation
+  - Automata theory
+  - Turing completeness
+  - Computability
+  - Complexity classes, P vs NP
+- Linear Agebra & Abstract Algebra
+- Mathematical Cryptography
+  - Hyperelliptic & Elliptic Curve Cryptography
+  - Diffie-Hellman
 
-I was a teaching assistant for Analysis of Algorithms (CSE 373) and Intro to Computer Science (CSE 101) at SBU.  
+### Experience
+- Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
+- Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
+- Technology & Production Intern at Ideal Glass Studios
+- Experience coding in Java, Python
 
 ### Goals
 - Meet new people from all disciplines
