@@ -4,8 +4,7 @@ layout: home
 
 # Hi! I'm Kevi.
 
-Behold
-
+Behold.
 ## About Me
 
 I enjoy:
@@ -40,3 +39,6 @@ I enjoy:
 ### Goals
 - Meet new people from all disciplines
 - Help with computer-related tasks
+
+### Project Websites (under construction)
+- temp
