@@ -15,7 +15,7 @@ Behold, the man. or something like that...
 I enjoy:
 - Building computers
 - Reading mathematical works
-- Cooking
+- Cooking food
 - Prime number computing
 - The Free Software philosophy
 
@@ -36,8 +36,7 @@ I enjoy:
 ### Mathematical Interests
 - Algorithms
   - Graph algorithms
-  - Sorting and searching
-  - Hybrid Sorting algorithms
+  - Hybrid sorting and searching algorithms
   - Complexity analysis
   - Approximation algorithms
 - Theory of computation
@@ -48,7 +47,7 @@ I enjoy:
 - Linear Agebra & Abstract Algebra
 - Mathematical Cryptography
   - Hyperelliptic & Elliptic Curve Cryptography
-  - Diffie-Hellman
+  - Anything Diffie-Hellman
 
 ### Project Websites (under construction)
 - temp
