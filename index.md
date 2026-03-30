@@ -4,15 +4,14 @@ layout: home
 
 # Hi! I'm Kevi.
 
-Behold, the man. or something like that... 20m math nerd from ny
+Behold, the man. 20m math nerd from ny. ENFP
 
 <p align="center">
   <img src="IMG_98032.PNG" alt="Kevi" width="650"/>
 </p>
 
-## About Me
+## I enjoy:
 
-I enjoy:
 - Building computers
 - Reading mathematical works
 - Cooking food
