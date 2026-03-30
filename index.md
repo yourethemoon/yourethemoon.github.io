@@ -31,18 +31,15 @@ I enjoy:
 
 ### Goals
 - Meet new people
-- Freelance web/software development?
-- Help with computer-related tasks
+- Web/sw/kernel development
 
 ### Mathematical Interests
-- Algorithms
-  - Graph algorithms
-  - Hybrid sorting and searching algorithms
-  - Approximation algorithms & Complexity classes
-- Linear Agebra & Abstract Algebra
-- Mathematical Cryptography
-  - Hyperelliptic & Elliptic Curve Cryptography
-  - Anything Diffie-Hellman
+- Hybrid sorting and searching algorithms
+- Approximation algorithms & Complexity classes
+- Multilinear Algebra
+- Category Theory
+- Hyperelliptic & Elliptic Curve Cryptography
+- Anything Diffie-Hellman
 
 ### Project Websites (under construction)
 - temp
