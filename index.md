@@ -18,7 +18,6 @@ Behold, the man. 20m math nerd from ny. ENFP
 - Prime crunching
 - The Free Software philosophy
 - Brazilian funk
-- Breaking my OS (probably not)
 
 ### Experience
 - Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
@@ -45,7 +44,8 @@ Behold, the man. 20m math nerd from ny. ENFP
 
 ### Project Websites (under construction)
 - temp
-  
+- Blogs
+
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
 - LinkedIn: Currently deactivated
