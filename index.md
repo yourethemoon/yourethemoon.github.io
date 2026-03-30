@@ -16,7 +16,7 @@ I enjoy:
 - Building computers
 - Reading mathematical works
 - Cooking food
-- Prime number computing
+- Prime crunching
 - The Free Software philosophy
 
 ### Experience
@@ -25,8 +25,9 @@ I enjoy:
 - Technology & Production Intern at Ideal Glass Studios
 - Experience coding in Java, Python. Currently learning Rust
 
-### Completed Coursework
-- Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Advanced Linear Algebra, Complex Analysis, Logic
+### Education
+- Coursework: Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Advanced Linear Algebra, Complex Analysis, Logic
+- BS Mathematics, 3.7 GPA
 
 ### Goals
 - Meet new people
@@ -37,13 +38,7 @@ I enjoy:
 - Algorithms
   - Graph algorithms
   - Hybrid sorting and searching algorithms
-  - Complexity analysis
-  - Approximation algorithms
-- Theory of computation
-  - Automata theory
-  - Turing completeness
-  - Computability
-  - Complexity classes, P vs NP
+  - Approximation algorithms & Complexity classes
 - Linear Agebra & Abstract Algebra
 - Mathematical Cryptography
   - Hyperelliptic & Elliptic Curve Cryptography
