@@ -42,6 +42,11 @@ Behold, the man. 20m math nerd from ny. ENFP
 - Hyperelliptic & Elliptic Curve Cryptography
 - Anything Diffie-Hellman
 
+### Languages
+- English (Native)
+- German (Intermediate)
+- Cantonese (Elementary)
+
 ### Project Websites (under construction)
 - temp
 - Blogs
