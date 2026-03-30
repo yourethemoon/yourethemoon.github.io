@@ -10,14 +10,9 @@ Behold, the man. 20M, math nerd from ny. ENFP
   <img src="IMG_98032.PNG" alt="Kevi" width="650"/>
 </p>
 
-## I'm enjoying:
-
-- Building computers
-- Reading mathematical works
-- Cooking food
-- Prime crunching
-- The Free Software philosophy
-- Brazilian funk
+### Goals
+- Meet new people & infect them with my enthusiasm
+- Web/sw/kernel development
 
 ### Experience
 - Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
@@ -30,9 +25,14 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Coursework: Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
 - BS in Mathematics, 3.7 GPA
 
-### Goals
-- Meet new people & infect them with my enthusiasm
-- Web/sw/kernel development
+## I'm enjoying:
+
+- Building computers
+- Reading mathematical works
+- Cooking food
+- Prime crunching
+- The Free Software philosophy
+- Brazilian funk
 
 ### Mathematical Interests
 - Hybrid sorting and searching algorithms
