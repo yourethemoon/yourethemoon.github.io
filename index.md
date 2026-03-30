@@ -49,7 +49,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Project Websites (under construction)
 - temp
-- Blogs
+- Blogs [here](yourethemoon.github.io/blogs/).
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
