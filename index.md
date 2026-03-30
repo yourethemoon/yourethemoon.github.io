@@ -17,6 +17,8 @@ Behold, the man. 20m math nerd from ny. ENFP
 - Cooking food
 - Prime crunching
 - The Free Software philosophy
+- Brazilian funk
+- Breaking my OS (probably not)
 
 ### Experience
 - Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
