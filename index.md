@@ -4,7 +4,7 @@ layout: home
 
 # Hi! I'm Kevi.
 
-Behold, the man. 20m math nerd from ny. ENFP
+Behold, the man. 20M, math nerd from ny. ENFP
 
 <p align="center">
   <img src="IMG_98032.PNG" alt="Kevi" width="650"/>
@@ -28,7 +28,7 @@ Behold, the man. 20m math nerd from ny. ENFP
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
-- BS Mathematics, 3.7 GPA
+- BS in Mathematics, 3.7 GPA
 
 ### Goals
 - Meet new people & infect them with my enthusiasm
@@ -39,7 +39,7 @@ Behold, the man. 20m math nerd from ny. ENFP
 - Approximation algorithms & Complexity classes
 - Multilinear Algebra
 - Category Theory
-- Hyperelliptic & Elliptic Curve Cryptography
+- Hyperelliptic & Elliptic Curves
 - Anything Diffie-Hellman
 
 ### Languages
