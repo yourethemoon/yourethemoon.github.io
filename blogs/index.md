@@ -112,4 +112,25 @@ permalink: /blogs/
 </style>
 ## Pushed Responses
 Out of respect of the responders, all responses will be kept anonymous. 
+<details>
+  <summary>1</summary>
+
+  - Not work, Ask for financial support
+  - Talk to all of my loved ones
+  - Travel & Try new foods
+  - Make Art, photography, music
+  - Say goodbye to everyone, write close people a letter/gift
+
+</details>
+<details>
+  <summary>2</summary>
+
+  - Watch sunrises/sunsets in Australia
+  - Hike in Hawaii 
+  - Run in the rain
+  - Learn real analysis
+  - Climb a tree like a monkey
+  - Meditate without falling asleep
+
+</details>
 ## Reflection
