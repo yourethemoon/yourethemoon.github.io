@@ -27,7 +27,7 @@ permalink: /blogs/
 
   <div class="fg-field">
     <label for="fg-message">Message</label>
-    <textarea id="fg-message" name="message" rows="4" placeholder="How can we help?" required></textarea>
+    <textarea id="fg-message" name="message" rows="4" placeholder="Type your answer here!" required></textarea>
   </div>
 
   <button type="submit" class="fg-button">Send Message</button>
