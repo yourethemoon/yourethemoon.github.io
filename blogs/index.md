@@ -115,12 +115,15 @@ Out of respect of the responders, all responses will be kept anonymous.
 <details>
   <summary>1</summary>
 
-  - Not work, Ask for financial support
-  - Talk to all of my loved ones
-  - Travel & Try new foods
-  - Make Art, photography, music
-  - Say goodbye to everyone, write close people a letter/gift
-
+  <ul>
+    <li>Not work</li>
+    <li>Ask for financial support</li>
+    <li>Talk to all of my loved ones</li>
+    <li>Travel &amp; try new foods</li>
+    <li>Make Art, photography, music</li>
+    <li>Say goodbye to everyone, write close people a letter/gift</li>
+  </ul>
+  
 </details>
 <details>
   <summary>2</summary>
