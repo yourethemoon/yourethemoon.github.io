@@ -17,7 +17,7 @@ permalink: /blogs/
 
   <div class="fg-field">
     <label for="fg-name">Name</label>
-    <input id="fg-name" type="text" name="name" placeholder="Jane Doe" required>
+    <input id="fg-name" type="text" name="name" placeholder="John Cena" required>
   </div>
 
   <div class="fg-field">
@@ -325,6 +325,20 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
     <li>bang a lot</li>
     <li>drop all of my political views and conversations</li>
     <li>do a lot of math (fluid dynamics, topology)</li>
+  </ul>
+  
+</details>
+<details>
+  <summary>18</summary>
+
+  <ul>
+    <li>Find all the people closest in my life and spend the most time with them</li>
+    <li>Ask out a girl</li>
+    <li>Try psychedelics</li>
+    <li>Go to bolivia, visit mirror lake in bolivia</li>
+    <li>Quit ambulance job</li>
+    <li>Write a book /diary about my life to pass onto family and friends</li>
+    <li>Try to help people in any way i can in my last few days</li>
   </ul>
   
 </details>
