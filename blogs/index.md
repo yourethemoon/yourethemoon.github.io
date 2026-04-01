@@ -111,7 +111,7 @@ permalink: /blogs/
   }
 </style>
 ## Pushed Responses
-Out of respect of the responders, all responses will be kept anonymous. 
+Out of privacy and respect of the responders, all responses will be kept anonymous. 
 <details>
   <summary>1</summary>
 
@@ -128,12 +128,139 @@ Out of respect of the responders, all responses will be kept anonymous.
 <details>
   <summary>2</summary>
 
-  - Watch sunrises/sunsets in Australia
-  - Hike in Hawaii 
-  - Run in the rain
-  - Learn real analysis
-  - Climb a tree like a monkey
-  - Meditate without falling asleep
+  <ul>
+    <li>Watch sunrises/sunsets in Australia</li>
+    <li>Hike in Hawaii</li>
+    <li>Run in the rain</li>
+    <li>Learn real analysis</li>
+    <li>Climb a tree like a monkey</li>
+    <li>Meditate without falling asleep</li>
+  </ul>
+
+</details>
+<details>
+  <summary>3</summary>
+
+  <ul>
+    <li>Put all math knowledge into writing</li>
+    <li>Go to hometown or parent’s hometown in China</li>
+    <li>Learn how to be happy, find internal peace</li>
+    <li>Travel inside China</li>
+    <li>Talk to more people because idgaf</li>
+    <li>Date someone</li>
+    <li>Be famous</li>
+    <li>Travel to space</li>
+    <li>Freeze my body</li>
+  </ul>
+
+</details>
+<details>
+  <summary>4</summary>
+
+  <ul>
+    <li>Spend time with loved ones</li>
+    <li>Go to Scotland/white cliffs before death</li>
+    <li>Won’t tell them I’m dying</li>
+    <li>Minimize spending and donate my money</li>
+    <li>Have more alone time in last 3 months</li>
+  </ul>
+
+</details>
+<details>
+  <summary>5</summary>
+
+  <ul>
+    <li>Run a marathon</li>
+    <li>Run a mile in under 5 minutes</li>
+    <li>Bench press 135 lbs</li>
+    <li>Learn to swim, roller skate, and draw</li>
+    <li>Engage in political advocacy</li>
+    <li>Read a couple of books on my to-read list</li>
+  </ul>
+
+</details>
+<details>
+  <summary>6</summary>
+
+  <ul>
+    <li>Try every drug</li>
+    <li>Ski</li>
+    <li>Visit Cambodia, Europe. travel everywhere</li>
+    <li>Go to North Korea near the end</li>
+    <li>Force my introverted friends to do more stuff</li>
+  </ul>
+
+</details>
+<details>
+  <summary>7</summary>
+
+  <ul>
+    <li>Forget about it (drink if necessary)</li>
+    <li>Keep doing what I’m currently doing</li>
+  </ul>
+
+</details>
+<details>
+  <summary>8</summary>
+
+  <ul>
+    <li>Visit Thailand</li>
+    <li>Keep it a secret for 10 months, then start telling everyone and annoying tf out of them</li>
+    <li>Be sad for a bit, then try to not be sad</li>
+    <li>Try to act normal</li>
+    <li>Keep doing math</li>
+  </ul>
+
+</details>
+<details>
+  <summary>9</summary>
+
+  <ul>
+    <li>Go Skydiving</li>
+    <li>Take Steroids</li>
+    <li>Use all of my money</li>
+  </ul>
+
+</details>
+<details>
+  <summary>10</summary>
+
+  <ul>
+    <li>Hang out with friends/family</li>
+    <li>Rob a bank</li>
+    <li>Bungee jumping</li>
+    <li>Travel the world, Bahamas, home land, Japan, Korea</li>
+    <li>Have a kid</li>
+    <li>Do everything</li>
+  </ul>
+
+</details>
+<details>
+  <summary>11</summary>
+
+  <ul>
+    <li>Spend all my money</li>
+    <li>Travel to friends across the world Czech Republic, China, Brazil</li>
+    <li>Hike somewhere beautiful</li>
+    <li>Spend time with family and friends</li>
+    <li>Make youtube video essays</li>
+    <li>Meet a bunch of people</li>
+  </ul>
+
+</details>
+<details>
+  <summary>12</summary>
+
+  <ul>
+    <li>Assassinate someone</li>
+    <li>Write a book</li>
+    <li>Donate to improve education in community</li>
+    <li>Keep my interactions normal</li>
+    <li>Write a math paper in chromatic homotopy theory</li>
+    <li>not travel much</li>
+    <li>Have a parrot</li>
+    <li>Spend time with family and friends</li>
+  </ul>
 
 </details>
 ## Reflection
