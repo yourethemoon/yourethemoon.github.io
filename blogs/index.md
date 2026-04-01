@@ -337,7 +337,7 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
     <li>Try psychedelics</li>
     <li>Go to bolivia, visit mirror lake in bolivia</li>
     <li>Quit ambulance job</li>
-    <li>Write a book /diary about my life to pass onto family and friends</li>
+    <li>Write a book/diary about my life to pass onto family/friends</li>
     <li>Try to help people in any way i can in my last few days</li>
   </ul>
   
