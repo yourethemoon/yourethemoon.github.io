@@ -111,5 +111,5 @@ permalink: /blogs/
   }
 </style>
 ## Pushed Responses
--Person 1: 
+Out of respect of the responders, all responses will be kept anonymous. 
 ## Reflection
