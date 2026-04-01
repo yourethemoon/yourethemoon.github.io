@@ -263,4 +263,56 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
 
 </details>
+<details>
+  <summary>13</summary>
+
+  <ul>
+    <li>Travel everywhere (putting myself into so much debt)</li>
+    <li>Meet a lot of new people</li>
+    <li>Learn a lot of languages</li>
+    <li>Drop out of college</li>
+    <li>Not sleep that much</li>
+    <li>Read a lot of books</li>
+    <li>I would be so happy</li>
+    <li>Make some money to leave for loved ones. Gamble the rest away</li>
+    <li>Be a stripper for a day and see how much money I can make</li>
+  </ul>
+
+</details>
+<details>
+  <summary>14</summary>
+
+  <ul>
+    <li>Go to space (go to the moon)</li>
+    <li>Not care about my future </li>
+    <li>Go to a bunch of zoos and animal sanctuaries</li>
+    <li>Do vocal street performances</li>
+    <li>Get out of my shell</li>
+  </ul>
+
+</details>
+<details>
+  <summary>15</summary>
+
+  <ul>
+    <li>quit my job </li>
+    <li>travel around Europe, Sicily and Ireland. All of Western Europe, England, Portugal</li>
+    <li>Try new foods. Experience other cultures</li>
+    <li>Explore in the States, Grand Canyon, national parks out west. Utah, Yellowstone. </li>
+    <li>More time on hobbies (table top games) and more on family</li>
+  </ul>
+  
+</details>
+<details>
+  <summary>16</summary>
+
+  <ul>
+    <li>Meditate a lot</li>
+    <li>Play a lot of basketball</li>
+    <li>Sleep a lot</li>
+    <li>Spend a lot of money living comfortably</li>
+    <li>Talk to a lot of people I already know</li>
+  </ul>
+  
+</details>
 ## Reflection
