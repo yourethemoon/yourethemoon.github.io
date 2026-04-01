@@ -342,4 +342,18 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>19</summary>
+
+  <ul>
+    <li>Drop out of school and travel. go out a lot</li>
+    <li>Keep it a secret</li>
+    <li>Europe, southeast asia. Japan, Australia, New Zealand if time permits</li>
+    <li>Force someone to go travel with me</li>
+    <li>Carnivale in Brazil</li>
+    <li>Try all types of drugs</li>
+    <li>Not very depressed. Would be relieved tbh. I don't have to find a job anymore </li>
+  </ul>
+  
+</details>
 ## Reflection
