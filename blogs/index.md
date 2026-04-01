@@ -315,4 +315,17 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>17</summary>
+
+  <ul>
+    <li>kill myself at the end (to assert dominance)</li>
+    <li>start a mental health campaign through roundabout way</li>
+    <li>hang out with people I know. Wouldn't tell half of them</li>
+    <li>bang a lot</li>
+    <li>drop all of my political views and conversations</li>
+    <li>do a lot of math (fluid dynamics, topology)</li>
+  </ul>
+  
+</details>
 ## Reflection
