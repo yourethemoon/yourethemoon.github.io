@@ -47,10 +47,9 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - German (Intermediate)
 - Cantonese (Elementary)
 
-### Project Websites (under construction)
-- temp
+### Project Websites
 - Blogs [here](/blogs/).
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
-- LinkedIn: Currently deactivated
+- LinkedIn: deactivated.
