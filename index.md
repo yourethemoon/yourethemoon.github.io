@@ -48,6 +48,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Project Websites
 - Blogs [here](/blogs/).
+- temp
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
