@@ -372,4 +372,18 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>21</summary>
+
+  <ul>
+    <li>putting more time and effort into exploring</li>
+    <li>meet new people, find more people to connect with</li>
+    <li>skateboard more often</li>
+    <li>walk across america, nature parks</li>
+    <li>dabble in learning Mongolian, Swahili</li>
+    <li>Turkish is cool</li>
+    <li>Stay away from studying in my bedroom</li>
+  </ul>
+  
+</details>
 ## Reflection
