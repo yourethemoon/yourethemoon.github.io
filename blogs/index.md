@@ -356,4 +356,20 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>20</summary>
+
+  <ul>
+    <li>go on a solo, week-long road trip across the US</li>
+    <li>spend a few weeks in a random small town across the world and immerse myself in the local way of life</li>
+    <li>make pilgrimage</li>
+    <li>attend a Louis Tomlinson concert</li>
+    <li>communicate my opinions without fear of judgement</li>
+    <li>outwardly express my gratitude to those who have positively shaped my life</li>
+    <li>spend time entertaining/supporting little kids battling illness</li>
+    <li>become proficient in any topic!</li>
+    <li>do a pull-up</li>
+  </ul>
+  
+</details>
 ## Reflection
