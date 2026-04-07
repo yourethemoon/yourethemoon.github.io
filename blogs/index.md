@@ -386,4 +386,16 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>22</summary>
+
+  <ul>
+    <li>Start recording life as a story (like a vlog.)</li>
+    <li>Travel to see the things I want to see (Aurora Borealis and other cool stuff)</li>
+    <li>Visit a country where I can't speak the language and try to befriend someone.</li>
+    <li>Learn how to snap my fingers</li>
+    <li>Everyday, ask 1 random person to take a picture of them</li>
+  </ul>
+  
+</details>
 ## Reflection
