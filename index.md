@@ -37,7 +37,6 @@ Behold, the man. 20M, math nerd from ny. ENFP
 ### Mathematical Interests
 - Hybrid sorting and searching algorithms
 - Approximation algorithms & Complexity classes
-- Multilinear Algebra
 - Category Theory
 - Hyperelliptic & Elliptic Curves
 - Anything Diffie-Hellman
@@ -52,4 +51,3 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
-- LinkedIn: deactivated.
