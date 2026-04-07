@@ -22,7 +22,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Experience coding in Java, Python. Currently learning Rust
 
 ### Education
-- Coursework: Analysis of Algorithms, Data Structures, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
+- Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
 - BS in Mathematics, 3.7 GPA
 
 ## I'm enjoying:
