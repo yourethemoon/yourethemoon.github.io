@@ -398,4 +398,16 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>23</summary>
+
+  <ul>
+    <li>be more considerate with respect to people in my life</li>
+    <li>be less self-obsessed</li>
+    <li>procrastinate less. focus more</li>
+    <li>Spend a lot of time thinking about regrets. wish i had matured quicker. wish i didn't move homes so much</li>
+    <li>play less pokémon</li>
+  </ul>
+  
+</details>
 ## Reflection
