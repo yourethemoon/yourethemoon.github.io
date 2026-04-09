@@ -133,7 +133,7 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
     <li>Hike in Hawaii</li>
     <li>Run in the rain</li>
     <li>Learn real analysis</li>
-    <li>Climb a tree like a monkey</li>
+    <li>Climb a very tall tree like a monkey</li>
     <li>Meditate without falling asleep</li>
   </ul>
 
