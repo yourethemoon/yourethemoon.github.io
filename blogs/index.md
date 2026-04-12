@@ -13,7 +13,7 @@ permalink: /blogs/
 ## Contribute
 <form action="https://formgrid.dev/api/f/zpio9v7q" method="POST" class="fg-contact-form">
   <h2>Blog Question</h2>
-  <p>If you had one year left to live, what would you do? What would you change about your life? List 5 to 10 things:</p>
+  <p>If you had one year left to live, what would you do? What would you change about your life? List 5 to 10 things. Please don't be super vague. Make it interesting!</p>
 
   <div class="fg-field">
     <label for="fg-name">Name</label>
