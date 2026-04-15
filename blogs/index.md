@@ -423,5 +423,18 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>25</summary>
+
+  <ul>
+    <li>get married to my boyfriend</li>
+    <li>meet my online friends of 5+ years</li>
+    <li>go to the nude beach</li>
+    <li>rent, and go to the club with my siblings( theyre in middle/high school)</li>
+    <li>stay in a japanese pod hotel</li>
+    <li>yell "Tabernak' to a quebeqois 15 year old</li>
+  </ul>
+  
+</details>
 ## Reflection
 Almost everyone said they would like to travel. 
