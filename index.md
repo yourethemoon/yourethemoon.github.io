@@ -52,3 +52,6 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
+
+> "One day I will find the right words, and they will be simple."
+> -- Jack Kerouac
