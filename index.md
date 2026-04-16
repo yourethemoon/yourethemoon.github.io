@@ -23,7 +23,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
-- BS in Mathematics, 3.7 GPA
+- BS in Mathematics, Minor in CS, 3.7 GPA
 
 ## I'm enjoying:
 
