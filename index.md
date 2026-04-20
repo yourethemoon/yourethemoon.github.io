@@ -13,6 +13,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 ### Goals
 - Meet new people & infect them with my enthusiasm
 - Web/sw/kernel development
+- Live in West Germany after finishing uni
 
 ### Experience
 - Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
