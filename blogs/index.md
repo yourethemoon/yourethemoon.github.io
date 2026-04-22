@@ -436,5 +436,19 @@ Out of privacy and respect of the responders, all responses will be kept anonymo
   </ul>
   
 </details>
+<details>
+  <summary>26</summary>
+
+  <ul>
+    <li>go to as many concerts as possible</li>
+    <li>travel a lot mostly Europe</li>
+    <li>come to school only when I want</li>
+    <li>taste every food I want to, including snails :( (in france)</li>
+    <li>go to a lot of parties with friends and meet a lot of people worldwide (ibizaaaa)</li>
+    <li>obvi spend a lot of time w my family too</li>
+    <li>learn how to sew and upcycle my own clothes and maybe even start giving away clothes that I make</li>
+  </ul>
+  
+</details>
 ## Reflection
 Almost everyone said they would like to travel. 
