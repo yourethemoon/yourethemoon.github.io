@@ -20,7 +20,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
-- Experience coding in Java, Python. Currently learning Rust
+- Experience coding in Java, Python
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
@@ -49,7 +49,6 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Project Websites
 - Blogs [here](/blogs/).
-- temp
 
 ### Contact
 - Email: kevin.chen.23 -- at -- stonybrook.edu
