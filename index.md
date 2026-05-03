@@ -7,7 +7,7 @@ layout: home
 Behold, the man. 20M, math nerd from ny. ENFP
 
 <p align="center">
-  <img src="IMG_980321.PNG" alt="Kevi" width="750"/>
+  <img src="IMG_980321.PNG" alt="Kevi" width="550"/>
 </p>
 
 ### Goals
