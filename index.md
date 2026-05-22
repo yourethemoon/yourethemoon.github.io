@@ -39,7 +39,6 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Approximation algorithms & Complexity classes
 - Category Theory
 - Hyperelliptic & Elliptic Curves
-- Anything Diffie-Hellman
 
 ### Languages
 - English (Native)
