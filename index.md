@@ -20,7 +20,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
 - Society of Physics Students Executive Board Member
-- Experience coding in Java. Enjoying Python, Haskell, Rust 
+- Experience coding in Java, Python, Haskell, Rust 
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
