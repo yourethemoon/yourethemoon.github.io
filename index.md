@@ -34,7 +34,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Prime crunching
 - The Free Software philosophy
 - Brazilian funk
-- Cheese
+- Snacking on cheese
 
 ### Mathematical Interests
 - Hybrid sorting and searching algorithms
