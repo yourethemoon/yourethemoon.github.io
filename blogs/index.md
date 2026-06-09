@@ -11,7 +11,7 @@ permalink: /blogs/
 ---
 
 ## Contribute
-<form action="https://formgrid.dev/api/f/zpio9v7q" method="POST" class="fg-contact-form">
+<form action="https://formgrid.dev/api/f/mei8o4zb" method="POST" class="fg-contact-form">
   <h2>Blog Question</h2>
   <p>If you had one year left to live, what would you do? List 5 to 10 things. What would you change about your life? Please don't be super vague. Make it interesting!</p>
 
