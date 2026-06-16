@@ -19,8 +19,8 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
-- Society of Physics Students Executive Board Member
-- Experience coding in Java, Python, Haskell, Rust 
+- Society of Physics Students Executive Board
+- Experience coding in Java, Python
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
@@ -34,7 +34,6 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Prime crunching
 - The Free Software philosophy
 - Brazilian funk
-- Snacking on cheese
 
 ### Mathematical Interests
 - Hybrid sorting and searching algorithms
@@ -45,6 +44,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 ### Languages
 - English (Native)
 - German (Elementary)
+- Taishanese (Elementary)
 
 ### Project Websites
 - Blogs [here](/blogs/).
