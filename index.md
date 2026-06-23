@@ -15,19 +15,19 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Visit West Germany after uni
 
 ### Experience
-- Teaching Assistant for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
-- Teaching Assistant for Intro to Computer Science (CSE 101) under Kevin McDonnell
+- Summer Teaching Assistant (TA) at SUNY EOP
+- TA for Analysis of Algorithms under Steven Skiena
+- TA for Intro to Computer Science
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
 - Society of Physics Students Executive Board
-- Experience coding in Java, Python
+- Experience coding in Java & Python
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
 - BS in Mathematics, 3.7 GPA
 
 ## I'm enjoying:
-
 - Building computers
 - Reading mathematical works
 - Cooking food
