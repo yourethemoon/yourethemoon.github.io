@@ -16,8 +16,8 @@ Behold, the man. 20M, math nerd from ny. ENFP
 
 ### Experience
 - Summer Teaching Assistant (TA) at SUNY EOP
-- TA for Analysis of Algorithms (CSE/MAT 373) under Steven Skiena
-- TA for Intro to Computer Science
+- TA for Advanced Algorithms (CSE/MAT 373) under Steven Skiena
+- TA for Introduction to Computer Science (CSE 101)
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
 - Society of Physics Students Executive Board
@@ -34,6 +34,7 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Prime crunching
 - The Free Software philosophy
 - Brazilian funk
+- African Drumming
 
 ### Mathematical Interests
 - Hybrid sorting and searching algorithms
