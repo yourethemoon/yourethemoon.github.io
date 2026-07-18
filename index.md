@@ -15,7 +15,7 @@ Behold, the man. 21M, math nerd from ny. ENFP
 - Visit West Germany after uni
 
 ### Experience
-- CEAS Teaching Assistant (TA) at SUNY EOP
+- Data Science & Calculus Teaching Assistant (TA) at SUNY EOP
 - TA for Advanced Algorithms (CSE/MAT 373) under Steven Skiena
 - TA for Introduction to Computer Science (CSE 101)
 - Technology & Production Intern at Ideal Glass Studios
