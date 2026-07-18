@@ -4,7 +4,7 @@ layout: home
 
 # Hi! I'm Kevi.
 
-Behold, the man. 20M, math nerd from ny. ENFP
+Behold, the man. 21M, math nerd from ny. ENFP
 
 <p align="center">
   <img src="IMG_980321.PNG" alt="Kevi" width="650"/>
@@ -15,20 +15,19 @@ Behold, the man. 20M, math nerd from ny. ENFP
 - Visit West Germany after uni
 
 ### Experience
-- Summer Teaching Assistant (TA) at SUNY EOP
+- CEAS Teaching Assistant (TA) at SUNY EOP
 - TA for Advanced Algorithms (CSE/MAT 373) under Steven Skiena
 - TA for Introduction to Computer Science (CSE 101)
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
-- Society of Physics Students Executive Board
 - Experience coding in Java & Python
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
-- BS in Mathematics, 3.7 GPA
+- BS Mathematics, 3.7 GPA
 
 ## I'm enjoying:
-- Building computers
+- Assembling computers
 - Reading mathematical works
 - Cooking food
 - Prime crunching
