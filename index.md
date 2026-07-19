@@ -20,7 +20,7 @@ Behold, the man. 21M, math nerd from ny. ENFP
 - TA for Introduction to Computer Science (CSE 101)
 - Technology & Production Intern at Ideal Glass Studios
 - Online Community Owner & Manager, Stony Brook Math Server
-- Experience coding in Java & Python
+- Experience coding in Java, Python, and Rust
 
 ### Education
 - Coursework: Analysis of Algorithms, Data Structures, Stats, Mathematical Cryptography, Abstract Algebra, Linear Algebra II, Partial Differential Equations, Complex Analysis, Logic
