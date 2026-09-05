@@ -43,7 +43,7 @@ Behold, the man. 21M, math nerd from ny. ENFP
 
 ### Languages
 - English (Native)
-- German (Elementary)
+- German (Intermediate)
 - Taishanese (Elementary)
 
 ### Project Websites
